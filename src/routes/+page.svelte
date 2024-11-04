@@ -435,6 +435,9 @@
 			max-width: 296px;
 		}
 
+		.about {
+			margin-top: -20px;
+		}
 		.about-item {
 			padding: 12px;
 			height: 170px;
